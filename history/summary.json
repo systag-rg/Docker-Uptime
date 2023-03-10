@@ -1,8 +1,8 @@
 [
   {
     "name": "GitLab",
-    "url": "https://gitlab.systag.cloud/-/liveness?token=S1Pv-99sdU3CFyEWg5sy",
-    "icon": "https://icons.duckduckgo.com/ip3/gitlab.systag.cloud.ico",
+    "url": "$SECRET_GITLAB_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 593,
-    "timeWeek": 593,
-    "timeMonth": 593,
-    "timeYear": 593,
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   }
 ]
