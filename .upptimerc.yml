@@ -4,7 +4,7 @@ repo: Docker-Uptime # The name of this repository
 
 sites:
   - name: GitLab
-    url: https://gitlab.systag.cloud/-/liveness?token=S1Pv-99sdU3CFyEWg5sy
+    url: $SECRET_GITLAB_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
